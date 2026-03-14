@@ -2,4 +2,4 @@
 Update details later.
 
 <br />
-Author - Niku Thakur
+Author - Niku.Thakur
